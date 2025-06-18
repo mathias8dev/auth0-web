@@ -1,0 +1,7 @@
+{
+  "domain": "dev-zgc6sbse8r6k3k3t.us.auth0.com",
+  "clientId": "t6gDjgP8Q8p18TkmJzFcsafZFUtq4Sfm",
+  "scope": "openid email profile offline_access",
+  "audience": "https://api.pocengie.com",
+  "appOrigin": "auth0.pocengie.com"
+}
